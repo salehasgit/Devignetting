@@ -1,0 +1,4169 @@
+<x:xmpmeta xmlns:x=" " x:xmptk=" ">
+ <rdf:RDF xmlns:rdf=" ">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="photoshop"
+    xmlns:stCamera="stcamera">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.52"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.618716"
+       stCamera:FocalLengthY="0.618716"
+       stCamera:ImageXCenter="0.496682"
+       stCamera:ImageYCenter="0.493894"
+       stCamera:ResidualMeanError="0.000658"
+       stCamera:ResidualStandardDeviation="0.001189"
+       stCamera:RadialDistortParam1="-0.135125"
+       stCamera:RadialDistortParam2="0.09934"
+       stCamera:RadialDistortParam3="-0.026882"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.92"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.662776"
+       stCamera:FocalLengthY="0.662776"
+       stCamera:ImageXCenter="0.490518"
+       stCamera:ImageYCenter="0.4873"
+       stCamera:ResidualMeanError="0.000199"
+       stCamera:ResidualStandardDeviation="0.000383"
+       stCamera:RadialDistortParam1="-0.138645"
+       stCamera:RadialDistortParam2="0.104195"
+       stCamera:RadialDistortParam3="-0.016828"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.74"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.935852"
+       stCamera:FocalLengthY="0.935852"
+       stCamera:ImageXCenter="0.494919"
+       stCamera:ImageYCenter="0.489751"
+       stCamera:ResidualMeanError="0.000324"
+       stCamera:ResidualStandardDeviation="0.000426"
+       stCamera:RadialDistortParam1="-0.044574"
+       stCamera:RadialDistortParam2="0.014674"
+       stCamera:RadialDistortParam3="0.149542"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.85"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.964933"
+       stCamera:FocalLengthY="0.964933"
+       stCamera:ImageXCenter="0.493607"
+       stCamera:ImageYCenter="0.490141"
+       stCamera:ResidualMeanError="0.000183"
+       stCamera:ResidualStandardDeviation="0.000271"
+       stCamera:RadialDistortParam1="-0.030344"
+       stCamera:RadialDistortParam2="0.085882"
+       stCamera:RadialDistortParam3="0.122767"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4.14"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.952012"
+       stCamera:FocalLengthY="0.952012"
+       stCamera:ImageXCenter="0.493975"
+       stCamera:ImageYCenter="0.4896"
+       stCamera:ResidualMeanError="0.000049"
+       stCamera:ResidualStandardDeviation="0.00003"
+       stCamera:RadialDistortParam1="-0.039528"
+       stCamera:RadialDistortParam2="0.128359"
+       stCamera:RadialDistortParam3="0.003512"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.286528"
+       stCamera:FocalLengthY="1.286528"
+       stCamera:ResidualMeanError="0.000312"
+       stCamera:ResidualStandardDeviation="0.000384"
+       stCamera:RadialDistortParam1="0.0286"
+       stCamera:RadialDistortParam2="-0.119929"
+       stCamera:RadialDistortParam3="0.908093"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.92"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.29663"
+       stCamera:FocalLengthY="1.29663"
+       stCamera:ResidualMeanError="0.000134"
+       stCamera:ResidualStandardDeviation="0.000136"
+       stCamera:RadialDistortParam1="0.029987"
+       stCamera:RadialDistortParam2="0.15202"
+       stCamera:RadialDistortParam3="0.369194"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="4.14"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.367402"
+       stCamera:FocalLengthY="1.367402"
+       stCamera:ResidualMeanError="0.000134"
+       stCamera:ResidualStandardDeviation="0.00014"
+       stCamera:RadialDistortParam1="0.082234"
+       stCamera:RadialDistortParam2="0.025683"
+       stCamera:RadialDistortParam3="0.482753"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.58"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.755752"
+       stCamera:FocalLengthY="1.755752"
+       stCamera:ResidualMeanError="0.000341"
+       stCamera:ResidualStandardDeviation="0.00044"
+       stCamera:RadialDistortParam1="0.146966"
+       stCamera:RadialDistortParam2="-0.817554"
+       stCamera:RadialDistortParam3="6.63714"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.26"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.680192"
+       stCamera:FocalLengthY="1.680192"
+       stCamera:ResidualMeanError="0.000268"
+       stCamera:ResidualStandardDeviation="0.000383"
+       stCamera:RadialDistortParam1="0.041906"
+       stCamera:RadialDistortParam2="1.251352"
+       stCamera:RadialDistortParam3="-4.608947"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="7.4"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.725594"
+       stCamera:FocalLengthY="1.725594"
+       stCamera:ResidualMeanError="0.000079"
+       stCamera:ResidualStandardDeviation="0.00006"
+       stCamera:RadialDistortParam1="0.100646"
+       stCamera:RadialDistortParam2="0.463634"
+       stCamera:RadialDistortParam3="-0.751835"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.38"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.177155"
+       stCamera:FocalLengthY="2.177155"
+       stCamera:ResidualMeanError="0.000298"
+       stCamera:ResidualStandardDeviation="0.00036"
+       stCamera:RadialDistortParam1="0.275187"
+       stCamera:RadialDistortParam2="-2.051431"
+       stCamera:RadialDistortParam3="23.347802"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="7.4"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.04337"
+       stCamera:FocalLengthY="2.04337"
+       stCamera:ResidualMeanError="0.000166"
+       stCamera:ResidualStandardDeviation="0.000214"
+       stCamera:RadialDistortParam1="0.211137"
+       stCamera:RadialDistortParam2="-0.352318"
+       stCamera:RadialDistortParam3="8.293104"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="2.92"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.048537"
+       stCamera:FocalLengthY="2.048537"
+       stCamera:ResidualMeanError="0.000253"
+       stCamera:ResidualStandardDeviation="0.000372"
+       stCamera:RadialDistortParam1="0.11681"
+       stCamera:RadialDistortParam2="2.52869"
+       stCamera:RadialDistortParam3="-15.470284"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.85"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="6.036768"
+       stCamera:FocalLengthY="6.036768"
+       stCamera:ResidualMeanError="0.000263"
+       stCamera:ResidualStandardDeviation="0.000317"
+       stCamera:RadialDistortParam1="3.053005"
+       stCamera:RadialDistortParam2="136.775579"
+       stCamera:RadialDistortParam3="-10029.947084"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="2.92"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.485697"
+       stCamera:FocalLengthY="2.485697"
+       stCamera:ResidualMeanError="0.00023"
+       stCamera:ResidualStandardDeviation="0.000335"
+       stCamera:RadialDistortParam1="0.278382"
+       stCamera:RadialDistortParam2="4.761252"
+       stCamera:RadialDistortParam3="-50.533915"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="7.4"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.477715"
+       stCamera:FocalLengthY="2.477715"
+       stCamera:ResidualMeanError="0.000102"
+       stCamera:ResidualStandardDeviation="0.000086"
+       stCamera:RadialDistortParam1="0.353165"
+       stCamera:RadialDistortParam2="0.312349"
+       stCamera:RadialDistortParam3="12.127126"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:ImageXCenter="0.496682"
+        stCamera:ImageYCenter="0.493894"
+        stCamera:RadialDistortParam1="-0.135125"
+        stCamera:RadialDistortParam2="0.09934"
+        stCamera:RadialDistortParam3="-0.026882">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:VignetteModelParam1="-1.170025"
+        stCamera:VignetteModelParam2="0.86445"
+        stCamera:VignetteModelParam3="-0.530572"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:ImageXCenter="0.496682"
+        stCamera:ImageYCenter="0.493894"
+        stCamera:RadialDistortParam1="-0.135125"
+        stCamera:RadialDistortParam2="0.09934"
+        stCamera:RadialDistortParam3="-0.026882">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:VignetteModelParam1="-0.461002"
+        stCamera:VignetteModelParam2="-0.551963"
+        stCamera:VignetteModelParam3="0.218801"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:ImageXCenter="0.496682"
+        stCamera:ImageYCenter="0.493894"
+        stCamera:RadialDistortParam1="-0.135125"
+        stCamera:RadialDistortParam2="0.09934"
+        stCamera:RadialDistortParam3="-0.026882">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:VignetteModelParam1="-0.465353"
+        stCamera:VignetteModelParam2="0.421187"
+        stCamera:VignetteModelParam3="-0.671476"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:ImageXCenter="0.496682"
+        stCamera:ImageYCenter="0.493894"
+        stCamera:RadialDistortParam1="-0.135125"
+        stCamera:RadialDistortParam2="0.09934"
+        stCamera:RadialDistortParam3="-0.026882">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:VignetteModelParam1="-0.523384"
+        stCamera:VignetteModelParam2="0.659308"
+        stCamera:VignetteModelParam3="-0.773926"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:ImageXCenter="0.496682"
+        stCamera:ImageYCenter="0.493894"
+        stCamera:RadialDistortParam1="-0.135125"
+        stCamera:RadialDistortParam2="0.09934"
+        stCamera:RadialDistortParam3="-0.026882">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:VignetteModelParam1="-0.48685"
+        stCamera:VignetteModelParam2="0.411223"
+        stCamera:VignetteModelParam3="-0.452116"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:ImageXCenter="0.496682"
+        stCamera:ImageYCenter="0.493894"
+        stCamera:RadialDistortParam1="-0.135125"
+        stCamera:RadialDistortParam2="0.09934"
+        stCamera:RadialDistortParam3="-0.026882">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.618716"
+        stCamera:FocalLengthY="0.618716"
+        stCamera:VignetteModelParam1="-0.457867"
+        stCamera:VignetteModelParam2="0.214215"
+        stCamera:VignetteModelParam3="-0.218147"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:ImageXCenter="0.494119"
+        stCamera:ImageYCenter="0.491152"
+        stCamera:RadialDistortParam1="-0.133274"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.019688">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:VignetteModelParam1="-1.387131"
+        stCamera:VignetteModelParam2="1.323197"
+        stCamera:VignetteModelParam3="-0.821561"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:ImageXCenter="0.494119"
+        stCamera:ImageYCenter="0.491152"
+        stCamera:RadialDistortParam1="-0.133274"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.019688">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:VignetteModelParam1="-0.589773"
+        stCamera:VignetteModelParam2="-0.405988"
+        stCamera:VignetteModelParam3="0.169278"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:ImageXCenter="0.494119"
+        stCamera:ImageYCenter="0.491152"
+        stCamera:RadialDistortParam1="-0.133274"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.019688">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:VignetteModelParam1="-0.478265"
+        stCamera:VignetteModelParam2="0.427661"
+        stCamera:VignetteModelParam3="-0.731867"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:ImageXCenter="0.494119"
+        stCamera:ImageYCenter="0.491152"
+        stCamera:RadialDistortParam1="-0.133274"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.019688">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:VignetteModelParam1="-0.527011"
+        stCamera:VignetteModelParam2="0.646688"
+        stCamera:VignetteModelParam3="-0.807361"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:ImageXCenter="0.494119"
+        stCamera:ImageYCenter="0.491152"
+        stCamera:RadialDistortParam1="-0.133274"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.019688">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:VignetteModelParam1="-0.448024"
+        stCamera:VignetteModelParam2="0.240936"
+        stCamera:VignetteModelParam3="-0.317799"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:ImageXCenter="0.494119"
+        stCamera:ImageYCenter="0.491152"
+        stCamera:RadialDistortParam1="-0.133274"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.019688">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.637037"
+        stCamera:FocalLengthY="0.637037"
+        stCamera:VignetteModelParam1="-0.447499"
+        stCamera:VignetteModelParam2="0.134812"
+        stCamera:VignetteModelParam3="-0.152173"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:ImageXCenter="0.490518"
+        stCamera:ImageYCenter="0.4873"
+        stCamera:RadialDistortParam1="-0.138645"
+        stCamera:RadialDistortParam2="0.104195"
+        stCamera:RadialDistortParam3="-0.016828">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:VignetteModelParam1="-1.66166"
+        stCamera:VignetteModelParam2="1.974676"
+        stCamera:VignetteModelParam3="-1.300947"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:ImageXCenter="0.490518"
+        stCamera:ImageYCenter="0.4873"
+        stCamera:RadialDistortParam1="-0.138645"
+        stCamera:RadialDistortParam2="0.104195"
+        stCamera:RadialDistortParam3="-0.016828">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:VignetteModelParam1="-0.715117"
+        stCamera:VignetteModelParam2="-0.28464"
+        stCamera:VignetteModelParam3="0.121978"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:ImageXCenter="0.490518"
+        stCamera:ImageYCenter="0.4873"
+        stCamera:RadialDistortParam1="-0.138645"
+        stCamera:RadialDistortParam2="0.104195"
+        stCamera:RadialDistortParam3="-0.016828">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:VignetteModelParam1="-0.51399"
+        stCamera:VignetteModelParam2="0.489486"
+        stCamera:VignetteModelParam3="-0.883353"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:ImageXCenter="0.490518"
+        stCamera:ImageYCenter="0.4873"
+        stCamera:RadialDistortParam1="-0.138645"
+        stCamera:RadialDistortParam2="0.104195"
+        stCamera:RadialDistortParam3="-0.016828">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:VignetteModelParam1="-0.563363"
+        stCamera:VignetteModelParam2="0.699109"
+        stCamera:VignetteModelParam3="-0.898485"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:ImageXCenter="0.490518"
+        stCamera:ImageYCenter="0.4873"
+        stCamera:RadialDistortParam1="-0.138645"
+        stCamera:RadialDistortParam2="0.104195"
+        stCamera:RadialDistortParam3="-0.016828">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:VignetteModelParam1="-0.518418"
+        stCamera:VignetteModelParam2="0.310517"
+        stCamera:VignetteModelParam3="-0.339923"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:ImageXCenter="0.490518"
+        stCamera:ImageYCenter="0.4873"
+        stCamera:RadialDistortParam1="-0.138645"
+        stCamera:RadialDistortParam2="0.104195"
+        stCamera:RadialDistortParam3="-0.016828">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.662776"
+        stCamera:FocalLengthY="0.662776"
+        stCamera:VignetteModelParam1="-0.492619"
+        stCamera:VignetteModelParam2="0.165648"
+        stCamera:VignetteModelParam3="-0.160863"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:ImageXCenter="0.494919"
+        stCamera:ImageYCenter="0.489751"
+        stCamera:RadialDistortParam1="-0.044574"
+        stCamera:RadialDistortParam2="0.014674"
+        stCamera:RadialDistortParam3="0.149542">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:VignetteModelParam1="-2.10891"
+        stCamera:VignetteModelParam2="3.254066"
+        stCamera:VignetteModelParam3="-3.127027"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:ImageXCenter="0.494919"
+        stCamera:ImageYCenter="0.489751"
+        stCamera:RadialDistortParam1="-0.044574"
+        stCamera:RadialDistortParam2="0.014674"
+        stCamera:RadialDistortParam3="0.149542">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:VignetteModelParam1="-0.911247"
+        stCamera:VignetteModelParam2="1.723291"
+        stCamera:VignetteModelParam3="-3.338135"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:ImageXCenter="0.494919"
+        stCamera:ImageYCenter="0.489751"
+        stCamera:RadialDistortParam1="-0.044574"
+        stCamera:RadialDistortParam2="0.014674"
+        stCamera:RadialDistortParam3="0.149542">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:VignetteModelParam1="-0.742986"
+        stCamera:VignetteModelParam2="0.22691"
+        stCamera:VignetteModelParam3="0.085172"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:ImageXCenter="0.494919"
+        stCamera:ImageYCenter="0.489751"
+        stCamera:RadialDistortParam1="-0.044574"
+        stCamera:RadialDistortParam2="0.014674"
+        stCamera:RadialDistortParam3="0.149542">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:VignetteModelParam1="-0.75622"
+        stCamera:VignetteModelParam2="0.245346"
+        stCamera:VignetteModelParam3="0.166334"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:ImageXCenter="0.494919"
+        stCamera:ImageYCenter="0.489751"
+        stCamera:RadialDistortParam1="-0.044574"
+        stCamera:RadialDistortParam2="0.014674"
+        stCamera:RadialDistortParam3="0.149542">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.935852"
+        stCamera:FocalLengthY="0.935852"
+        stCamera:VignetteModelParam1="-0.82099"
+        stCamera:VignetteModelParam2="0.517"
+        stCamera:VignetteModelParam3="-0.120347"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:ImageXCenter="0.494636"
+        stCamera:ImageYCenter="0.489835"
+        stCamera:RadialDistortParam1="-0.037537"
+        stCamera:RadialDistortParam2="0.04467"
+        stCamera:RadialDistortParam3="0.132484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:VignetteModelParam1="-2.437324"
+        stCamera:VignetteModelParam2="4.478385"
+        stCamera:VignetteModelParam3="-4.285375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:ImageXCenter="0.494636"
+        stCamera:ImageYCenter="0.489835"
+        stCamera:RadialDistortParam1="-0.037537"
+        stCamera:RadialDistortParam2="0.04467"
+        stCamera:RadialDistortParam3="0.132484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:VignetteModelParam1="-0.893062"
+        stCamera:VignetteModelParam2="1.494321"
+        stCamera:VignetteModelParam3="-2.787888"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:ImageXCenter="0.494636"
+        stCamera:ImageYCenter="0.489835"
+        stCamera:RadialDistortParam1="-0.037537"
+        stCamera:RadialDistortParam2="0.04467"
+        stCamera:RadialDistortParam3="0.132484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:VignetteModelParam1="-0.793493"
+        stCamera:VignetteModelParam2="0.44937"
+        stCamera:VignetteModelParam3="-0.144964"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:ImageXCenter="0.494636"
+        stCamera:ImageYCenter="0.489835"
+        stCamera:RadialDistortParam1="-0.037537"
+        stCamera:RadialDistortParam2="0.04467"
+        stCamera:RadialDistortParam3="0.132484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:VignetteModelParam1="-0.799167"
+        stCamera:VignetteModelParam2="0.486883"
+        stCamera:VignetteModelParam3="-0.182525"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:ImageXCenter="0.494636"
+        stCamera:ImageYCenter="0.489835"
+        stCamera:RadialDistortParam1="-0.037537"
+        stCamera:RadialDistortParam2="0.04467"
+        stCamera:RadialDistortParam3="0.132484">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.942124"
+        stCamera:FocalLengthY="0.942124"
+        stCamera:VignetteModelParam1="-0.876642"
+        stCamera:VignetteModelParam2="0.846569"
+        stCamera:VignetteModelParam3="-0.633434"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:ImageXCenter="0.493975"
+        stCamera:ImageYCenter="0.4896"
+        stCamera:RadialDistortParam1="-0.039528"
+        stCamera:RadialDistortParam2="0.128359"
+        stCamera:RadialDistortParam3="0.003512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:VignetteModelParam1="-2.763925"
+        stCamera:VignetteModelParam2="5.952329"
+        stCamera:VignetteModelParam3="-6.154792"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:ImageXCenter="0.493975"
+        stCamera:ImageYCenter="0.4896"
+        stCamera:RadialDistortParam1="-0.039528"
+        stCamera:RadialDistortParam2="0.128359"
+        stCamera:RadialDistortParam3="0.003512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:VignetteModelParam1="-0.897462"
+        stCamera:VignetteModelParam2="1.495122"
+        stCamera:VignetteModelParam3="-2.974976"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:ImageXCenter="0.493975"
+        stCamera:ImageYCenter="0.4896"
+        stCamera:RadialDistortParam1="-0.039528"
+        stCamera:RadialDistortParam2="0.128359"
+        stCamera:RadialDistortParam3="0.003512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:VignetteModelParam1="-0.789763"
+        stCamera:VignetteModelParam2="0.450734"
+        stCamera:VignetteModelParam3="-0.214778"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:ImageXCenter="0.493975"
+        stCamera:ImageYCenter="0.4896"
+        stCamera:RadialDistortParam1="-0.039528"
+        stCamera:RadialDistortParam2="0.128359"
+        stCamera:RadialDistortParam3="0.003512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:VignetteModelParam1="-0.813426"
+        stCamera:VignetteModelParam2="0.572458"
+        stCamera:VignetteModelParam3="-0.374699"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:ImageXCenter="0.493975"
+        stCamera:ImageYCenter="0.4896"
+        stCamera:RadialDistortParam1="-0.039528"
+        stCamera:RadialDistortParam2="0.128359"
+        stCamera:RadialDistortParam3="0.003512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.952012"
+        stCamera:FocalLengthY="0.952012"
+        stCamera:VignetteModelParam1="-0.88034"
+        stCamera:VignetteModelParam2="0.883548"
+        stCamera:VignetteModelParam3="-0.752915"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-2.792677"
+        stCamera:VignetteModelParam2="4.679476"
+        stCamera:VignetteModelParam3="-3.097053"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.138823"
+        stCamera:VignetteModelParam2="0.421989"
+        stCamera:VignetteModelParam3="-3.066261"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.315919"
+        stCamera:VignetteModelParam2="3.048274"
+        stCamera:VignetteModelParam3="-5.166376"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.3063"
+        stCamera:VignetteModelParam2="3.221668"
+        stCamera:VignetteModelParam3="-6.285192"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.340114"
+        stCamera:VignetteModelParam2="3.684628"
+        stCamera:VignetteModelParam3="-7.756287"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-3.360147"
+        stCamera:VignetteModelParam2="8.944633"
+        stCamera:VignetteModelParam3="-13.349453"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.072505"
+        stCamera:VignetteModelParam2="-0.569921"
+        stCamera:VignetteModelParam3="-1.815009"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.260584"
+        stCamera:VignetteModelParam2="2.726972"
+        stCamera:VignetteModelParam3="-4.743773"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.265162"
+        stCamera:VignetteModelParam2="2.998104"
+        stCamera:VignetteModelParam3="-5.89179"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-0.119929"
+        stCamera:RadialDistortParam3="0.908093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.286528"
+        stCamera:FocalLengthY="1.286528"
+        stCamera:VignetteModelParam1="-1.26205"
+        stCamera:VignetteModelParam2="3.262524"
+        stCamera:VignetteModelParam3="-7.293791"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:RadialDistortParam1="0.082234"
+        stCamera:RadialDistortParam2="0.025683"
+        stCamera:RadialDistortParam3="0.482753">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:VignetteModelParam1="-4.402584"
+        stCamera:VignetteModelParam2="17.125915"
+        stCamera:VignetteModelParam3="-34.464088"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:RadialDistortParam1="0.082234"
+        stCamera:RadialDistortParam2="0.025683"
+        stCamera:RadialDistortParam3="0.482753">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:VignetteModelParam1="-1.091989"
+        stCamera:VignetteModelParam2="-3.068022"
+        stCamera:VignetteModelParam3="5.437165"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:RadialDistortParam1="0.082234"
+        stCamera:RadialDistortParam2="0.025683"
+        stCamera:RadialDistortParam3="0.482753">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:VignetteModelParam1="-1.406521"
+        stCamera:VignetteModelParam2="3.44443"
+        stCamera:VignetteModelParam3="-6.820685"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:RadialDistortParam1="0.082234"
+        stCamera:RadialDistortParam2="0.025683"
+        stCamera:RadialDistortParam3="0.482753">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:VignetteModelParam1="-1.388576"
+        stCamera:VignetteModelParam2="3.606072"
+        stCamera:VignetteModelParam3="-8.269152"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:RadialDistortParam1="0.082234"
+        stCamera:RadialDistortParam2="0.025683"
+        stCamera:RadialDistortParam3="0.482753">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.367402"
+        stCamera:FocalLengthY="1.367402"
+        stCamera:VignetteModelParam1="-1.646887"
+        stCamera:VignetteModelParam2="6.229445"
+        stCamera:VignetteModelParam3="-15.358293"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-4.008772"
+        stCamera:VignetteModelParam2="10.321273"
+        stCamera:VignetteModelParam3="-7.723757"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-1.986608"
+        stCamera:VignetteModelParam2="9.181556"
+        stCamera:VignetteModelParam3="-30.166369"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-2.128178"
+        stCamera:VignetteModelParam2="12.099523"
+        stCamera:VignetteModelParam3="-44.996167"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-2.397677"
+        stCamera:VignetteModelParam2="16.46334"
+        stCamera:VignetteModelParam3="-63.392634"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-2.580658"
+        stCamera:VignetteModelParam2="19.204497"
+        stCamera:VignetteModelParam3="-73.430654"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-4.686856"
+        stCamera:VignetteModelParam2="15.74634"
+        stCamera:VignetteModelParam3="-25.993434"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-1.984854"
+        stCamera:VignetteModelParam2="9.936229"
+        stCamera:VignetteModelParam3="-36.215105"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-2.041894"
+        stCamera:VignetteModelParam2="11.313434"
+        stCamera:VignetteModelParam3="-44.069236"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-2.207101"
+        stCamera:VignetteModelParam2="14.039694"
+        stCamera:VignetteModelParam3="-56.167833"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.91"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:RadialDistortParam1="0.146966"
+        stCamera:RadialDistortParam2="-0.817554"
+        stCamera:RadialDistortParam3="6.63714">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.755752"
+        stCamera:FocalLengthY="1.755752"
+        stCamera:VignetteModelParam1="-2.43389"
+        stCamera:VignetteModelParam2="17.75798"
+        stCamera:VignetteModelParam3="-72.256178"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:RadialDistortParam1="0.100646"
+        stCamera:RadialDistortParam2="0.463634"
+        stCamera:RadialDistortParam3="-0.751835">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:VignetteModelParam1="-5.423533"
+        stCamera:VignetteModelParam2="27.025972"
+        stCamera:VignetteModelParam3="-75.114054"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:RadialDistortParam1="0.100646"
+        stCamera:RadialDistortParam2="0.463634"
+        stCamera:RadialDistortParam3="-0.751835">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:VignetteModelParam1="-1.83367"
+        stCamera:VignetteModelParam2="6.70213"
+        stCamera:VignetteModelParam3="-15.433426"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:RadialDistortParam1="0.100646"
+        stCamera:RadialDistortParam2="0.463634"
+        stCamera:RadialDistortParam3="-0.751835">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:VignetteModelParam1="-1.934469"
+        stCamera:VignetteModelParam2="8.822828"
+        stCamera:VignetteModelParam3="-26.73719"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:RadialDistortParam1="0.100646"
+        stCamera:RadialDistortParam2="0.463634"
+        stCamera:RadialDistortParam3="-0.751835">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:VignetteModelParam1="-2.140407"
+        stCamera:VignetteModelParam2="12.520964"
+        stCamera:VignetteModelParam3="-44.766946"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:RadialDistortParam1="0.100646"
+        stCamera:RadialDistortParam2="0.463634"
+        stCamera:RadialDistortParam3="-0.751835">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725594"
+        stCamera:FocalLengthY="1.725594"
+        stCamera:VignetteModelParam1="-2.175892"
+        stCamera:VignetteModelParam2="13.109137"
+        stCamera:VignetteModelParam3="-47.263518"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="0.42"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-4.879083"
+        stCamera:VignetteModelParam2="15.879934"
+        stCamera:VignetteModelParam3="-15.964761"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="0.42"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.532867"
+        stCamera:VignetteModelParam2="17.112571"
+        stCamera:VignetteModelParam3="-80.188141"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="0.42"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.615003"
+        stCamera:VignetteModelParam2="19.24512"
+        stCamera:VignetteModelParam3="-92.890078"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="0.42"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-3.087102"
+        stCamera:VignetteModelParam2="29.738446"
+        stCamera:VignetteModelParam3="-155.597462"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="0.42"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-3.457152"
+        stCamera:VignetteModelParam2="37.026745"
+        stCamera:VignetteModelParam3="-192.170443"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="1.22"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-5.713267"
+        stCamera:VignetteModelParam2="21.296448"
+        stCamera:VignetteModelParam3="-25.494841"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="1.22"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.494145"
+        stCamera:VignetteModelParam2="16.619699"
+        stCamera:VignetteModelParam3="-77.922841"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="1.22"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.596097"
+        stCamera:VignetteModelParam2="19.503513"
+        stCamera:VignetteModelParam3="-98.066802"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="1.22"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.709917"
+        stCamera:VignetteModelParam2="22.757595"
+        stCamera:VignetteModelParam3="-121.092898"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="1.22"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.807536"
+        stCamera:VignetteModelParam2="23.225519"
+        stCamera:VignetteModelParam3="-111.376898"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-7.024514"
+        stCamera:VignetteModelParam2="46.460303"
+        stCamera:VignetteModelParam3="-171.566131"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.431557"
+        stCamera:VignetteModelParam2="14.356296"
+        stCamera:VignetteModelParam3="-58.746195"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-2.415885"
+        stCamera:VignetteModelParam2="14.79573"
+        stCamera:VignetteModelParam3="-63.58252"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-3.09661"
+        stCamera:VignetteModelParam2="29.433771"
+        stCamera:VignetteModelParam3="-144.094834"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="87"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:RadialDistortParam1="0.11681"
+        stCamera:RadialDistortParam2="2.52869"
+        stCamera:RadialDistortParam3="-15.470284">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.048537"
+        stCamera:FocalLengthY="2.048537"
+        stCamera:VignetteModelParam1="-3.48645"
+        stCamera:VignetteModelParam2="37.333461"
+        stCamera:VignetteModelParam3="-185.971216"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:RadialDistortParam1="3.053005"
+        stCamera:RadialDistortParam2="136.775579"
+        stCamera:RadialDistortParam3="-10029.947084">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:VignetteModelParam1="-55.754378"
+        stCamera:VignetteModelParam2="8053.791901"
+        stCamera:VignetteModelParam3="-701621.589517"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:RadialDistortParam1="3.053005"
+        stCamera:RadialDistortParam2="136.775579"
+        stCamera:RadialDistortParam3="-10029.947084">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:VignetteModelParam1="-27.436744"
+        stCamera:VignetteModelParam2="4454.30217"
+        stCamera:VignetteModelParam3="-394799.841178"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:RadialDistortParam1="3.053005"
+        stCamera:RadialDistortParam2="136.775579"
+        stCamera:RadialDistortParam3="-10029.947084">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:VignetteModelParam1="-22.053388"
+        stCamera:VignetteModelParam2="1435.992492"
+        stCamera:VignetteModelParam3="-73474.492813"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:RadialDistortParam1="3.053005"
+        stCamera:RadialDistortParam2="136.775579"
+        stCamera:RadialDistortParam3="-10029.947084">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:VignetteModelParam1="-23.496009"
+        stCamera:VignetteModelParam2="1367.070653"
+        stCamera:VignetteModelParam3="-41875.937233"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="4152"
+       stCamera:Lens="EF24-105mm f/3.5-5.6 IS STM"
+       stCamera:LensInfo="24/1 105/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/3.5-5.6 IS STM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/3.5-5.6 IS STM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="10">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>24-105mm F3.5-5.6 OSS</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:RadialDistortParam1="3.053005"
+        stCamera:RadialDistortParam2="136.775579"
+        stCamera:RadialDistortParam3="-10029.947084">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.036768"
+        stCamera:FocalLengthY="6.036768"
+        stCamera:VignetteModelParam1="-25.306491"
+        stCamera:VignetteModelParam2="1653.56778"
+        stCamera:VignetteModelParam3="-52607.612188"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

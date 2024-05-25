@@ -1,63 +1,81 @@
+import numpy as np
+import math
 import cv2
 
-import numpy as np
-import matplotlib
-matplotlib.use('TKAgg')
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d.axes3d import Axes3D
+def getCirclePixels(x0, y0, R, imH, imW):
+    # sample points
+    theta = np.linspace(0.1, 2 * np.pi-0.1, 2048)  # make it finer for finer circles
+    # the pixels that get hit
+    xy = [xy for xy in zip( ( - R * np.sin(theta) + x0).astype(int), (R * np.cos(theta) + y0).astype(int) ) if xy[0] >= 0 and xy[0] < imH and xy[1] >= 0 and xy[1] < imW]
+    return np.array(xy)
 
-import xml.etree.ElementTree as ET
-tree = ET.parse('Canon EOS-1Ds Mark III (Canon EF 24-105mm f3.5-5.6 IS STM) - RAW.xml')
-root = tree.getroot()
+PS0d = cv2.imread("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/test4/PS0d.jpg", cv2.IMREAD_ANYCOLOR | cv2.IMREAD_ANYDEPTH)
+PS100d = cv2.imread("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/test4/PS100d.jpg", cv2.IMREAD_ANYCOLOR | cv2.IMREAD_ANYDEPTH)
+# PS0d = PS0d / 65535 *255
+# PS100d = PS100d / 65535 *255
+PS00dMAX = PS100d.max()
 
-for c1 in root:
-    for c2 in c1:
-        for c3 in c2:
-            for c4 in c3:
-                for c5 in c4:
-                    for c6 in c5:
-                        print(c6.tag, c6.attrib)
+rows, cols, _ = PS0d.shape
+xy = getCirclePixels(int(rows / 2), int(cols / 2), int(cols / 2.3), rows, cols)
 
-VignetteModels =[]
-for VignetteModel in root.iter('{stcamera}VignetteModel'):
-    FocalLengthX = VignetteModel.get('{stcamera}FocalLengthX')
-    FocalLengthY = VignetteModel.get('{stcamera}FocalLengthY')
-    VignetteModelParam1 = VignetteModel.get('{stcamera}VignetteModelParam1')
-    VignetteModelParam2 = VignetteModel.get('{stcamera}VignetteModelParam2')
-    VignetteModelParam3 = VignetteModel.get('{stcamera}VignetteModelParam3')
-    print('FocalLengthX =', FocalLengthX)
-    print('FocalLengthY =', FocalLengthY)
-    print('VignetteModelParam1 =', VignetteModelParam1)
-    print('VignetteModelParam2 =', VignetteModelParam2)
-    print('VignetteModelParam3 =', VignetteModelParam3)
-    VignetteModels.append([float(FocalLengthX), float(FocalLengthY), float(VignetteModelParam1), float(VignetteModelParam2), float(VignetteModelParam3)])
-    parent_map = {c: p for p in root.iter() for c in p}
-    sa = parent_map.get('{stCamera}Author')
+F24FD1000AV6 = [-0.563363, 0.699109, -0.898485]
+F24FD1000AV49 = [-0.51399, 0.489486, -0.883353]
+interpol = [(F24FD1000AV6[0]+F24FD1000AV49[0])/2, (F24FD1000AV6[1]+F24FD1000AV49[1])/2,(F24FD1000AV6[2]+F24FD1000AV49[2])/2]
 
-VignetteModels =[]
-for li in root.iter('{ }li'):
-    des = li.find('{ }Description')
-    if des is not None : #skip AlternateLensNames
-        PerspectiveModel = des.find('{stcamera}PerspectiveModel')
-        if PerspectiveModel is not None:  # skip AlternateLensNames
-            for PM_el in PerspectiveModel:
-                VignetteModel = PerspectiveModel[0].find('{stcamera}VignetteModel')
-                if VignetteModel is not None:
-                    FocalLengthX = VignetteModel.get('{stcamera}FocalLengthX')
-                    FocalLengthY = VignetteModel.get('{stcamera}FocalLengthY')
-                    VignetteModelParam1 = VignetteModel.get('{stcamera}VignetteModelParam1')
-                    VignetteModelParam2 = VignetteModel.get('{stcamera}VignetteModelParam2')
-                    VignetteModelParam3 = VignetteModel.get('{stcamera}VignetteModelParam3')
-                    FocalLength = des.get('{stcamera}FocalLength')
-                    FocusDistance = des.get('{stcamera}FocusDistance')
-                    ApertureValue = des.get('{stcamera}ApertureValue')
-                    print('FocalLengthX =', FocalLengthX)
-                    print('FocalLengthY =', FocalLengthY)
-                    print('VignetteModelParam1 =', VignetteModelParam1)
-                    print('VignetteModelParam2 =', VignetteModelParam2)
-                    print('VignetteModelParam3 =', VignetteModelParam3)
-                    print('FocalLength =', FocalLength)
-                    print('FocusDistance =', FocusDistance)
-                    print('ApertureValue =', ApertureValue)
-                    VignetteModels.append([float(FocalLengthX), float(FocalLengthY), float(VignetteModelParam1), float(VignetteModelParam2), float(VignetteModelParam3),
-                                           float(FocalLength), float(FocusDistance), float(ApertureValue)])
+F24FD1000AV4 = [-0.715117, -0.28464, 0.121978]
+
+ImageXCenter = 0.490518
+ImageYCenter = 0.4873
+FocalLengthX = 0.662776
+FocalLengthY = 0.662776
+
+a = F24FD1000AV4
+a1 = a[0]
+a2 = a[1]
+a3 = a[2]
+
+Dmax = max(rows, cols) #5640
+u0 = ImageXCenter * Dmax
+v0 = ImageYCenter * Dmax
+fx = FocalLengthX * Dmax
+fy = FocalLengthY * Dmax
+
+ps = 36/5616   #36x24
+ps2 = 36/5472
+# fx = 24/ps2
+# fy = fx
+
+vignette_factor = np.ones((int(rows/2), int(cols/2)), dtype=np.float32)
+
+for u in range(0, int(rows/2)): #TODO: make sure it is even
+    for v in range(0, min(u+1, int(cols/2)) ):
+        x = (u ) / fx
+        y = (v ) / fy
+        r = pow(pow(x, 2) + pow(y, 2), 0.5 )
+        vignette_factor[u, v] = 1 - a1 * pow(r, 2) + (pow(a1, 2) - a2) * pow(r, 4) - (pow(a1, 3) - 2 * a1 * a2 + a3) * pow(r, 6) + (pow(a1, 4) + pow(a2, 2) + 2 * a1 * a3 - 3 * pow(a1, 2) * a2 ) * pow(r, 8)
+        if u < int(cols / 2):
+            vignette_factor[v, u] = 1 - a1 * pow(r, 2) + (pow(a1, 2) - a2) * pow(r, 4) - (pow(a1, 3) - 2 * a1 * a2 + a3) * pow(r, 6) + (pow(a1, 4) + pow(a2, 2) + 2 * a1 * a3 - 3 * pow(a1, 2) * a2 ) * pow(r, 8)
+
+vignettingImg = np.hstack((np.fliplr(vignette_factor), vignette_factor))
+vignettingImg = np.vstack((np.flipud(vignettingImg), vignettingImg))
+VNormalized = cv2.normalize(vignettingImg, None, 0, 255, cv2.NORM_MINMAX)  # Convert to normalized floating point
+cv2.imwrite("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/res/V.jpg", VNormalized)
+
+vigAve = vignettingImg[xy[:, 0], xy[:, 1]]
+vigAve = np.average(vigAve)
+print(vigAve)
+vigAvePS = (PS0d/PS100d)[:, :, 1]
+vigAvePS = vigAvePS[xy[:, 0], xy[:, 1]]
+vigAvePS = np.average(1/vigAvePS)
+print(vigAvePS)
+
+B, G, R = cv2.split(PS0d)
+B = B * vignettingImg
+G = G * vignettingImg
+R = R * vignettingImg
+correctedImg = cv2.merge((B,G,R))
+# correctedImg = cv2.normalize(correctedImg, None, 0, PS00dMAX, cv2.NORM_MINMAX)  # Convert to normalized floating point
+
+cv2.imwrite("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/res/PS0dpy.jpg", PS0d)
+cv2.imwrite("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/res/PS100dpy.jpg", PS100d)
+cv2.imwrite("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/res/My100d.jpg", (correctedImg))
