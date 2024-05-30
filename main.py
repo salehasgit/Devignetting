@@ -231,8 +231,6 @@ for VignetteModel in VignetteModels:
         FocalLengthX = VignetteModel[0]
         FocalLengthY = VignetteModel[1]
 
-        FocalLengthX, FocalLengthY, a  = calculParams(24, 4.14, 4)
-
         devignette_factor = generateDevignettingImg(a, FocalLengthX, FocalLengthY, height, width)
         VNormalized = cv2.normalize(devignette_factor, None, 0, 255, cv2.NORM_MINMAX)  # Convert to normalized floating point
         cv2.imwrite("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/res/V%.2d.jpg" % counter, VNormalized)
