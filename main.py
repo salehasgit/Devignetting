@@ -49,6 +49,58 @@ for li in root.iter('{ }li'):
                                            0.0 if ResidualMeanError==None else float(ResidualMeanError), 0.0 if ResidualStandardDeviation==None else float(ResidualStandardDeviation)])
 
 logInterpolate = False
+def bestMatchParam2d(VignetteModels, focalLength, focusDist, aperture, rows, cols ):
+    xyz =np.zeros((len(VignetteModels), 2))
+    for i in range(len(VignetteModels)):
+        if logInterpolate:
+            xyz[i,:] = (np.log(VignetteModels[i][5]), np.log(VignetteModels[i][7]))
+        else:
+            xyz[i, :] = ((VignetteModels[i][5]), (VignetteModels[i][7]))
+
+    Vfx = np.zeros(len(VignetteModels))
+    Vfy = np.zeros(len(VignetteModels))
+    Va0 = np.zeros(len(VignetteModels))
+    Va1 = np.zeros(len(VignetteModels))
+    Va2 = np.zeros(len(VignetteModels))
+    for i in range(len(VignetteModels)):
+        Vfx[i] = VignetteModels[i][0]
+        Vfy[i] = VignetteModels[i][1]
+        Va0[i] = VignetteModels[i][2]
+        Va1[i] = VignetteModels[i][3]
+        Va2[i] = VignetteModels[i][4]
+
+    a = [0, 0, 0]
+    method = 'nearest' # nearest, linear , cubic
+    if logInterpolate:
+        fxInterpoled = griddata(xyz, Vfx, (np.log(focalLength), np.log(aperture)), method=method)
+        fyInterpoled = griddata(xyz, Vfy, (np.log(focalLength), np.log(aperture)), method=method)
+        a[0] = griddata(xyz, Va0, (np.log(focalLength), np.log(aperture)), method=method)
+        a[1] = griddata(xyz, Va1, (np.log(focalLength), np.log(aperture)), method=method)
+        a[2] = griddata(xyz, Va2, (np.log(focalLength), np.log(aperture)), method=method)
+    else:
+        fxInterpoled = griddata(xyz, Vfx, ((focalLength), (aperture)), method=method)
+        fyInterpoled = griddata(xyz, Vfy, ((focalLength), (aperture)), method=method)
+        a[0] = griddata(xyz, Va0, ((focalLength), (aperture)), method=method)
+        a[1] = griddata(xyz, Va1, ((focalLength), (aperture)), method=method)
+        a[2] = griddata(xyz, Va2, ((focalLength), (aperture)), method=method)
+
+    ImageXCenter = 0.5
+    ImageYCenter = 0.5
+    Dmax = max(rows, cols)  # 5640
+
+    u0 = ImageXCenter * Dmax
+    v0 = ImageYCenter * Dmax
+    fx = fxInterpoled * Dmax
+    fy = fyInterpoled * Dmax
+
+    vign_param = [0, 0, 0, 0]
+    param0Sqr = a[0] * a[0]
+    vign_param[0] = - a[0]
+    vign_param[1] = param0Sqr - a[1]
+    vign_param[2] = param0Sqr * a[0] - 2.0 * a[0] * a[1] + a[2]
+    vign_param[3] = param0Sqr * param0Sqr + a[1] * a[1] + 2.0 * a[0] * a[2] - 3.0 * param0Sqr * a[1]
+
+    return fx, fy, vign_param, [fxInterpoled, fyInterpoled, a[0], a[1], a[2], focalLength, focusDist, aperture, 0, 0 ], 0
 
 def bestMatchParam3d(VignetteModels, focalLength, focusDist, aperture, rows, cols ):
     xyz =np.zeros((len(VignetteModels), 3))
@@ -279,7 +331,7 @@ for var in np.arange(3.7, 9, .5):
         aperture = var
 
         # fx, fy, vign_param, bestFitVignetteModel, mean_error = calculParams(VignetteModels, focalLength, focusDist, aperture, height, width)
-        fx, fy, vign_param, bestFitVignetteModel, mean_error = bestMatchParam3d(VignetteModels, focalLength, focusDist, aperture, height, width)
+        fx, fy, vign_param, bestFitVignetteModel, mean_error = bestMatchParam2d(VignetteModels, focalLength, focusDist, aperture, height, width)
         devignette_factor = generateDevignettingImg(vign_param, fx, fy, height, width)
         VNormalized = cv2.normalize(devignette_factor, None, 0, 255, cv2.NORM_MINMAX)  # Convert to normalized floating point
         cv2.imwrite("/Users/sm/Dropbox (VR Holding BV)/de-vignetting/res/V%.2f.jpg" % var, VNormalized)
